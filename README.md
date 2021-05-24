@@ -20,5 +20,5 @@ IDF (Inverse Document Frequency): Words that occur many times a document, but al
 
 Run These commands on command prompt
 #### pip install numpy
-#### pip instll pandas 
+#### pip install pandas 
 #### pip install sklearn
